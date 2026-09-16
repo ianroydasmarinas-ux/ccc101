@@ -1,0 +1,2 @@
+In one short paragraph, how did you develop and verify your solution to one quick activity, and how did organizing and committing your files help you document your work?\
+Answer: I developed and verify my solution by finding out how many the individual is willing to buy the product, multiplied by how much it costs as well as applying it on a discount. Additionally, organizing and committing my files helps with publishing my projects and help organizing my work neatly.

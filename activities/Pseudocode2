@@ -1,0 +1,9 @@
+START
+    READ ricemealQuantity, drinkQuantity, payment
+    ricemealSubtotal ← ricemealQuantity x 85
+    discount ← ricemealQuantity x 0.10
+    discountedSubtotal ← ricemealSubtotal - discount
+    drinkSubtotal ← drinkQuantity x 25
+    totalCost ← discountedSubtotal + 15 + drinkSubtotal
+    change ← payment - totalCost
+END

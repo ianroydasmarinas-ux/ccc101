@@ -1,0 +1,9 @@
+START
+    READ notebookQuantity, penQuantity, payment
+    notebooksubtotal ← notebookQuantity x 45
+    penSubtotal ← penQuantity x 12
+    totalCost ← Notebooksubtotal + penSubtotal
+    change ← totalCost - payment
+    DISPLAY totalCost, change
+END
+
