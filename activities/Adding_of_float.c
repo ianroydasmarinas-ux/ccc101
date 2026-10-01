@@ -2,13 +2,13 @@
 
 void main(void) {
 
-    int Ianroy, Dasmarinas;
+    float Ianroy, Dasmarinas;
     printf("enter first number ");
-    scanf("%i", &Ianroy);
+    scanf("%f", &Ianroy);
 
     printf("enter second number ");
-    scanf("%i", &Dasmarinas);
+    scanf("%f", &Dasmarinas);
 
-    printf("the sum is %i",Ianroy + Dasmarinas);
+    printf("the sum is %f",Ianroy + Dasmarinas);
 
 }
