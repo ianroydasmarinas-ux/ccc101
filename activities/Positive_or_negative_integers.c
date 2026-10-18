@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void){
     int Ian;
-    float Dasmarinas;
+    int Dasmarinas;
     printf("enter two numbers: (int int) ");
     scanf("%i %i", &Ian, &Dasmarinas);
     if (Ian > 0){
